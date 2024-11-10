@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Monster",
+        "description": "Story of a doctor who got accused of a murder that he didn't commit",
+        "author": "Naoki Urasawa",
+        "status": "Available"
+    },
+    {
+        "title": "Berserk",
+        "description": "A dark, gritty tale of a lone swordsman's quest for revenge and survival.",
+        "author": "Kentaro Miura",
+        "status": "Available"
+    },
+    {
+        "title": "Naruto",
+        "description": "A story of a young Ninja who wants to be Hokage!",
+        "author": "Masashi Kishimoto",
+        "status": "Available"
+    }
+]
